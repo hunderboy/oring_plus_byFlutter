@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:oring_project_ex1/widget/bottom_bar.dart';
 import 'package:oring_project_ex1/screen/home_screen.dart';
+import 'package:flutter_stetho/flutter_stetho.dart';
 
 void main() {
   runApp(MyApp());
@@ -14,12 +15,22 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   TabController controller;
 
+
+  bool get isInDebugMode { // 디버그 모드 설정
+    bool inDebugMode = false;
+    assert(inDebugMode = true);
+    return inDebugMode;
+  }
+
+
   @override
   Widget build(BuildContext context){
 //    return SafeArea(
 //        child: ListView(children: List.generate(100, (i) => Text("wow2 is $i.")))
 //    );
-
+    if(isInDebugMode) { // 디버그 모드 일경우
+      Stetho.initialize();
+    }
 
     return MaterialApp(
       title: 'bongFlix',
