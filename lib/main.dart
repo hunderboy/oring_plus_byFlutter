@@ -72,46 +72,6 @@ class _MyAppState extends State<MyApp> {
 
 
 
-//    return MaterialApp(
-//      title: 'bongFlix',
-//      theme: ThemeData(
-//          brightness: Brightness.dark,
-//          primaryColor: Colors.black,
-//          accentColor: Colors.white
-//      ),
-//
-//      home: DefaultTabController(
-//        length: 3, // 바텀네비게이션 길이
-//        child: Scaffold(
-//          body: TabBarView(
-//              physics: NeverScrollableScrollPhysics(),
-//              children: <Widget>[
-//                HomeScreen(),
-////                Container(
-////                  child: Center(
-////                    child: Text('1 첫번째'),
-////                  ),
-////                ),
-//                Container(
-//                  child: Center(
-//                    child: Text('2 두번째'),
-//                  ),
-//                ),
-//                Container(
-//                  child: Center(
-//                    child: Text('3 세번째'),
-//                  ),
-//                ),
-//
-//              ]
-//          ),
-//          bottomNavigationBar: Bottom(),
-//        ),
-//      ),
-//    );
-//  }
-
-
 
 
 }
