@@ -50,8 +50,10 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-     - images/default_img.jpg
-
+    - images/default_img.jpg
+    - assets/oring_table.json
+    - assets/xring_table.json
+    - assets/backupring_table.json
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 

@@ -1,0 +1,3386 @@
+[
+ {
+   "ListNo": 1,
+   "STANDARD": "X-RING",
+   "No": "X0004",
+   "ID": 1.78,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 2,
+   "STANDARD": "X-RING",
+   "No": "X0005",
+   "ID": 2.57,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 3,
+   "STANDARD": "X-RING",
+   "No": "X0006",
+   "ID": 2.9,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 4,
+   "STANDARD": "X-RING",
+   "No": "X0007",
+   "ID": 3.68,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 5,
+   "STANDARD": "X-RING",
+   "No": "X0008",
+   "ID": 4.47,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 6,
+   "STANDARD": "X-RING",
+   "No": "X0009",
+   "ID": 5.28,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 7,
+   "STANDARD": "X-RING",
+   "No": "X0010",
+   "ID": 6.07,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 8,
+   "STANDARD": "X-RING",
+   "No": "X0011",
+   "ID": 7.65,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 9,
+   "STANDARD": "X-RING",
+   "No": "X0012",
+   "ID": 9.25,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 10,
+   "STANDARD": "X-RING",
+   "No": "X0013",
+   "ID": 10.82,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 11,
+   "STANDARD": "X-RING",
+   "No": "X0014",
+   "ID": 12.42,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 12,
+   "STANDARD": "X-RING",
+   "No": "X0015",
+   "ID": 14,
+   "tolernce_id": 0.18,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 13,
+   "STANDARD": "X-RING",
+   "No": "X0016",
+   "ID": 15.6,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 14,
+   "STANDARD": "X-RING",
+   "No": "X0017",
+   "ID": 17.17,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 15,
+   "STANDARD": "X-RING",
+   "No": "X0018",
+   "ID": 18.77,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 16,
+   "STANDARD": "X-RING",
+   "No": "X0019",
+   "ID": 20.35,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 17,
+   "STANDARD": "X-RING",
+   "No": "X0020",
+   "ID": 21.95,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 18,
+   "STANDARD": "X-RING",
+   "No": "X0021",
+   "ID": 23.52,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 19,
+   "STANDARD": "X-RING",
+   "No": "X0022",
+   "ID": 25.12,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 20,
+   "STANDARD": "X-RING",
+   "No": "X0023",
+   "ID": 26.7,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 21,
+   "STANDARD": "X-RING",
+   "No": "X0024",
+   "ID": 28.3,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 22,
+   "STANDARD": "X-RING",
+   "No": "X0025",
+   "ID": 29.87,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 23,
+   "STANDARD": "X-RING",
+   "No": "X0026",
+   "ID": 31.47,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 24,
+   "STANDARD": "X-RING",
+   "No": "X0027",
+   "ID": 33.05,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 25,
+   "STANDARD": "X-RING",
+   "No": "X0028",
+   "ID": 34.65,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 26,
+   "STANDARD": "X-RING",
+   "No": "X0029",
+   "ID": 37.82,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 27,
+   "STANDARD": "X-RING",
+   "No": "X0030",
+   "ID": 41,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 28,
+   "STANDARD": "X-RING",
+   "No": "X0031",
+   "ID": 44.17,
+   "tolernce_id": 0.38,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 29,
+   "STANDARD": "X-RING",
+   "No": "X0032",
+   "ID": 47.35,
+   "tolernce_id": 0.38,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 30,
+   "STANDARD": "X-RING",
+   "No": "X0033",
+   "ID": 50.52,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 31,
+   "STANDARD": "X-RING",
+   "No": "X0034",
+   "ID": 53.7,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 32,
+   "STANDARD": "X-RING",
+   "No": "X0035",
+   "ID": 56.87,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 33,
+   "STANDARD": "X-RING",
+   "No": "X0036",
+   "ID": 60.05,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 34,
+   "STANDARD": "X-RING",
+   "No": "X0037",
+   "ID": 63.22,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 35,
+   "STANDARD": "X-RING",
+   "No": "X0038",
+   "ID": 66.4,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 36,
+   "STANDARD": "X-RING",
+   "No": "X0039",
+   "ID": 69.57,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 37,
+   "STANDARD": "X-RING",
+   "No": "X0040",
+   "ID": 72.75,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 38,
+   "STANDARD": "X-RING",
+   "No": "X0041",
+   "ID": 75.92,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 39,
+   "STANDARD": "X-RING",
+   "No": "X0042",
+   "ID": 82.27,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 40,
+   "STANDARD": "X-RING",
+   "No": "X0043",
+   "ID": 88.62,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 41,
+   "STANDARD": "X-RING",
+   "No": "X0044",
+   "ID": 94.97,
+   "tolernce_id": 0.69,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 42,
+   "STANDARD": "X-RING",
+   "No": "X0045",
+   "ID": 101.32,
+   "tolernce_id": 0.69,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 43,
+   "STANDARD": "X-RING",
+   "No": "X0046",
+   "ID": 107.67,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 44,
+   "STANDARD": "X-RING",
+   "No": "X0047",
+   "ID": 114.02,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 45,
+   "STANDARD": "X-RING",
+   "No": "X0048",
+   "ID": 120.37,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 46,
+   "STANDARD": "X-RING",
+   "No": "X0049",
+   "ID": 126.72,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 47,
+   "STANDARD": "X-RING",
+   "No": "X0050",
+   "ID": 133.07,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 48,
+   "STANDARD": "X-RING",
+   "No": "X0051",
+   "ID": 139.42,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 49,
+   "STANDARD": "X-RING",
+   "No": "X0052",
+   "ID": 145.77,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 50,
+   "STANDARD": "X-RING",
+   "No": "X0053",
+   "ID": 152.12,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 51,
+   "STANDARD": "X-RING",
+   "No": "X0054",
+   "ID": 158.47,
+   "tolernce_id": 1.02,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 52,
+   "STANDARD": "X-RING",
+   "No": "X0055",
+   "ID": 164.82,
+   "tolernce_id": 1.02,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 53,
+   "STANDARD": "X-RING",
+   "No": "X0102",
+   "ID": 1.24,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 54,
+   "STANDARD": "X-RING",
+   "No": "X0103",
+   "ID": 2.06,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 55,
+   "STANDARD": "X-RING",
+   "No": "X0104",
+   "ID": 2.84,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 56,
+   "STANDARD": "X-RING",
+   "No": "X0105",
+   "ID": 3.63,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 57,
+   "STANDARD": "X-RING",
+   "No": "X0106",
+   "ID": 4.42,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 58,
+   "STANDARD": "X-RING",
+   "No": "X0107",
+   "ID": 5.23,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 59,
+   "STANDARD": "X-RING",
+   "No": "X0108",
+   "ID": 6.02,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 60,
+   "STANDARD": "X-RING",
+   "No": "X0109",
+   "ID": 7.59,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 61,
+   "STANDARD": "X-RING",
+   "No": "X0110",
+   "ID": 9.19,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 62,
+   "STANDARD": "X-RING",
+   "No": "X0111",
+   "ID": 10.77,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 63,
+   "STANDARD": "X-RING",
+   "No": "X0112",
+   "ID": 12.37,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 64,
+   "STANDARD": "X-RING",
+   "No": "X0113",
+   "ID": 13.94,
+   "tolernce_id": 0.18,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 65,
+   "STANDARD": "X-RING",
+   "No": "X0114",
+   "ID": 15.54,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 66,
+   "STANDARD": "X-RING",
+   "No": "X0115",
+   "ID": 17.12,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 67,
+   "STANDARD": "X-RING",
+   "No": "X0116",
+   "ID": 18.72,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 68,
+   "STANDARD": "X-RING",
+   "No": "X0117",
+   "ID": 20.29,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 69,
+   "STANDARD": "X-RING",
+   "No": "X0118",
+   "ID": 21.89,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 70,
+   "STANDARD": "X-RING",
+   "No": "X0119",
+   "ID": 23.47,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 71,
+   "STANDARD": "X-RING",
+   "No": "X0120",
+   "ID": 25.07,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 72,
+   "STANDARD": "X-RING",
+   "No": "X0121",
+   "ID": 26.64,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 73,
+   "STANDARD": "X-RING",
+   "No": "X0122",
+   "ID": 28.24,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 74,
+   "STANDARD": "X-RING",
+   "No": "X0123",
+   "ID": 29.82,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 75,
+   "STANDARD": "X-RING",
+   "No": "X0124",
+   "ID": 31.42,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 76,
+   "STANDARD": "X-RING",
+   "No": "X0125",
+   "ID": 32.99,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 77,
+   "STANDARD": "X-RING",
+   "No": "X0126",
+   "ID": 34.59,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 78,
+   "STANDARD": "X-RING",
+   "No": "X0127",
+   "ID": 36.17,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 79,
+   "STANDARD": "X-RING",
+   "No": "X0128",
+   "ID": 37.77,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 80,
+   "STANDARD": "X-RING",
+   "No": "X0129",
+   "ID": 39.34,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 81,
+   "STANDARD": "X-RING",
+   "No": "X0130",
+   "ID": 40.94,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 82,
+   "STANDARD": "X-RING",
+   "No": "X0131",
+   "ID": 42.52,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 83,
+   "STANDARD": "X-RING",
+   "No": "X0132",
+   "ID": 44.12,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 84,
+   "STANDARD": "X-RING",
+   "No": "X0133",
+   "ID": 45.69,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 85,
+   "STANDARD": "X-RING",
+   "No": "X0134",
+   "ID": 47.29,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 86,
+   "STANDARD": "X-RING",
+   "No": "X0135",
+   "ID": 48.9,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 87,
+   "STANDARD": "X-RING",
+   "No": "X0136",
+   "ID": 50.47,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 88,
+   "STANDARD": "X-RING",
+   "No": "X0137",
+   "ID": 52.07,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 89,
+   "STANDARD": "X-RING",
+   "No": "X0138",
+   "ID": 53.64,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 90,
+   "STANDARD": "X-RING",
+   "No": "X0139",
+   "ID": 55.25,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 91,
+   "STANDARD": "X-RING",
+   "No": "X0140",
+   "ID": 56.82,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 92,
+   "STANDARD": "X-RING",
+   "No": "X0141",
+   "ID": 58.42,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 93,
+   "STANDARD": "X-RING",
+   "No": "X0142",
+   "ID": 59.99,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 94,
+   "STANDARD": "X-RING",
+   "No": "X0143",
+   "ID": 61.6,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 95,
+   "STANDARD": "X-RING",
+   "No": "X0144",
+   "ID": 63.17,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 96,
+   "STANDARD": "X-RING",
+   "No": "X0145",
+   "ID": 64.77,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 97,
+   "STANDARD": "X-RING",
+   "No": "X0146",
+   "ID": 66.34,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 98,
+   "STANDARD": "X-RING",
+   "No": "X0147",
+   "ID": 67.95,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 99,
+   "STANDARD": "X-RING",
+   "No": "X0148",
+   "ID": 69.52,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 100,
+   "STANDARD": "X-RING",
+   "No": "X0149",
+   "ID": 71.12,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 101,
+   "STANDARD": "X-RING",
+   "No": "X0150",
+   "ID": 72.69,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 102,
+   "STANDARD": "X-RING",
+   "No": "X0151",
+   "ID": 75.87,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 103,
+   "STANDARD": "X-RING",
+   "No": "X0152",
+   "ID": 82.22,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 104,
+   "STANDARD": "X-RING",
+   "No": "X0153",
+   "ID": 88.57,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 105,
+   "STANDARD": "X-RING",
+   "No": "X0154",
+   "ID": 94.92,
+   "tolernce_id": 0.71,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 106,
+   "STANDARD": "X-RING",
+   "No": "X0155",
+   "ID": 101.27,
+   "tolernce_id": 0.71,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 107,
+   "STANDARD": "X-RING",
+   "No": "X0156",
+   "ID": 107.62,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 108,
+   "STANDARD": "X-RING",
+   "No": "X0157",
+   "ID": 113.97,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 109,
+   "STANDARD": "X-RING",
+   "No": "X0158",
+   "ID": 120.32,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 110,
+   "STANDARD": "X-RING",
+   "No": "X0159",
+   "ID": 126.67,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 111,
+   "STANDARD": "X-RING",
+   "No": "X0160",
+   "ID": 133.02,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 112,
+   "STANDARD": "X-RING",
+   "No": "X0161",
+   "ID": 139.37,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 113,
+   "STANDARD": "X-RING",
+   "No": "X0162",
+   "ID": 145.72,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 114,
+   "STANDARD": "X-RING",
+   "No": "X0163",
+   "ID": 152.07,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 115,
+   "STANDARD": "X-RING",
+   "No": "X0164",
+   "ID": 158.42,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 116,
+   "STANDARD": "X-RING",
+   "No": "X0165",
+   "ID": 164.77,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 117,
+   "STANDARD": "X-RING",
+   "No": "X0166",
+   "ID": 171.12,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 118,
+   "STANDARD": "X-RING",
+   "No": "X0167",
+   "ID": 177.47,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 119,
+   "STANDARD": "X-RING",
+   "No": "X0168",
+   "ID": 183.82,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 120,
+   "STANDARD": "X-RING",
+   "No": "X0169",
+   "ID": 190.17,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 121,
+   "STANDARD": "X-RING",
+   "No": "X0170",
+   "ID": 196.52,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 122,
+   "STANDARD": "X-RING",
+   "No": "X0171",
+   "ID": 202.87,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 123,
+   "STANDARD": "X-RING",
+   "No": "X0172",
+   "ID": 209.22,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 124,
+   "STANDARD": "X-RING",
+   "No": "X0173",
+   "ID": 215.57,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 125,
+   "STANDARD": "X-RING",
+   "No": "X0174",
+   "ID": 221.92,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 126,
+   "STANDARD": "X-RING",
+   "No": "X0175",
+   "ID": 228.27,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 127,
+   "STANDARD": "X-RING",
+   "No": "X0176",
+   "ID": 234.62,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 128,
+   "STANDARD": "X-RING",
+   "No": "X0177",
+   "ID": 240.97,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 129,
+   "STANDARD": "X-RING",
+   "No": "X0178",
+   "ID": 247.32,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 130,
+   "STANDARD": "X-RING",
+   "No": "X0201",
+   "ID": 4.34,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 131,
+   "STANDARD": "X-RING",
+   "No": "X0202",
+   "ID": 5.94,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 132,
+   "STANDARD": "X-RING",
+   "No": "X0203",
+   "ID": 7.52,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 133,
+   "STANDARD": "X-RING",
+   "No": "X0204",
+   "ID": 9.12,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 134,
+   "STANDARD": "X-RING",
+   "No": "X0205",
+   "ID": 10.69,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 135,
+   "STANDARD": "X-RING",
+   "No": "X0206",
+   "ID": 12.29,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 136,
+   "STANDARD": "X-RING",
+   "No": "X0207",
+   "ID": 13.87,
+   "tolernce_id": 0.18,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 137,
+   "STANDARD": "X-RING",
+   "No": "X0208",
+   "ID": 15.47,
+   "tolernce_id": 0.23,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 138,
+   "STANDARD": "X-RING",
+   "No": "X0209",
+   "ID": 17.04,
+   "tolernce_id": 0.23,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 139,
+   "STANDARD": "X-RING",
+   "No": "X0210",
+   "ID": 18.64,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 140,
+   "STANDARD": "X-RING",
+   "No": "X0211",
+   "ID": 20.22,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 141,
+   "STANDARD": "X-RING",
+   "No": "X0212",
+   "ID": 21.82,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 142,
+   "STANDARD": "X-RING",
+   "No": "X0213",
+   "ID": 23.39,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 143,
+   "STANDARD": "X-RING",
+   "No": "X0214",
+   "ID": 24.99,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 144,
+   "STANDARD": "X-RING",
+   "No": "X0215",
+   "ID": 26.57,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 145,
+   "STANDARD": "X-RING",
+   "No": "X0216",
+   "ID": 28.17,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 146,
+   "STANDARD": "X-RING",
+   "No": "X0217",
+   "ID": 29.74,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 147,
+   "STANDARD": "X-RING",
+   "No": "X0218",
+   "ID": 31.34,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 148,
+   "STANDARD": "X-RING",
+   "No": "X0219",
+   "ID": 32.92,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 149,
+   "STANDARD": "X-RING",
+   "No": "X0220",
+   "ID": 34.52,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 150,
+   "STANDARD": "X-RING",
+   "No": "X0221",
+   "ID": 36.09,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 151,
+   "STANDARD": "X-RING",
+   "No": "X0222",
+   "ID": 37.69,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 152,
+   "STANDARD": "X-RING",
+   "No": "X0223",
+   "ID": 40.87,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 153,
+   "STANDARD": "X-RING",
+   "No": "X0224",
+   "ID": 44.04,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 154,
+   "STANDARD": "X-RING",
+   "No": "X0225",
+   "ID": 47.22,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 155,
+   "STANDARD": "X-RING",
+   "No": "X0226",
+   "ID": 50.39,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 156,
+   "STANDARD": "X-RING",
+   "No": "X0227",
+   "ID": 53.57,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 157,
+   "STANDARD": "X-RING",
+   "No": "X0228",
+   "ID": 56.74,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 158,
+   "STANDARD": "X-RING",
+   "No": "X0229",
+   "ID": 59.92,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 159,
+   "STANDARD": "X-RING",
+   "No": "X0230",
+   "ID": 63.09,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 160,
+   "STANDARD": "X-RING",
+   "No": "X0231",
+   "ID": 66.27,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 161,
+   "STANDARD": "X-RING",
+   "No": "X0232",
+   "ID": 69.44,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 162,
+   "STANDARD": "X-RING",
+   "No": "X0233",
+   "ID": 72.62,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 163,
+   "STANDARD": "X-RING",
+   "No": "X0234",
+   "ID": 75.79,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 164,
+   "STANDARD": "X-RING",
+   "No": "X0235",
+   "ID": 78.97,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 165,
+   "STANDARD": "X-RING",
+   "No": "X0236",
+   "ID": 82.14,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 166,
+   "STANDARD": "X-RING",
+   "No": "X0237",
+   "ID": 85.32,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 167,
+   "STANDARD": "X-RING",
+   "No": "X0238",
+   "ID": 88.49,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 168,
+   "STANDARD": "X-RING",
+   "No": "X0239",
+   "ID": 91.67,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 169,
+   "STANDARD": "X-RING",
+   "No": "X0240",
+   "ID": 94.84,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 170,
+   "STANDARD": "X-RING",
+   "No": "X0241",
+   "ID": 98.02,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 171,
+   "STANDARD": "X-RING",
+   "No": "X0242",
+   "ID": 101.19,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 172,
+   "STANDARD": "X-RING",
+   "No": "X0243",
+   "ID": 104.37,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 173,
+   "STANDARD": "X-RING",
+   "No": "X0244",
+   "ID": 107.54,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 174,
+   "STANDARD": "X-RING",
+   "No": "X0245",
+   "ID": 110.72,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 175,
+   "STANDARD": "X-RING",
+   "No": "X0246",
+   "ID": 113.89,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 176,
+   "STANDARD": "X-RING",
+   "No": "X0247",
+   "ID": 117.07,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 177,
+   "STANDARD": "X-RING",
+   "No": "X0248",
+   "ID": 120.24,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 178,
+   "STANDARD": "X-RING",
+   "No": "X0249",
+   "ID": 123.42,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 179,
+   "STANDARD": "X-RING",
+   "No": "X0250",
+   "ID": 126.59,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 180,
+   "STANDARD": "X-RING",
+   "No": "X0251",
+   "ID": 129.77,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 181,
+   "STANDARD": "X-RING",
+   "No": "X0252",
+   "ID": 132.94,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 182,
+   "STANDARD": "X-RING",
+   "No": "X0253",
+   "ID": 136.12,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 183,
+   "STANDARD": "X-RING",
+   "No": "X0254",
+   "ID": 139.29,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 184,
+   "STANDARD": "X-RING",
+   "No": "X0255",
+   "ID": 142.47,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 185,
+   "STANDARD": "X-RING",
+   "No": "X0256",
+   "ID": 145.64,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 186,
+   "STANDARD": "X-RING",
+   "No": "X0257",
+   "ID": 148.82,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 187,
+   "STANDARD": "X-RING",
+   "No": "X0258",
+   "ID": 151.99,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 188,
+   "STANDARD": "X-RING",
+   "No": "X0259",
+   "ID": 158.34,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 189,
+   "STANDARD": "X-RING",
+   "No": "X0260",
+   "ID": 164.69,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 190,
+   "STANDARD": "X-RING",
+   "No": "X0261",
+   "ID": 171.04,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 191,
+   "STANDARD": "X-RING",
+   "No": "X0262",
+   "ID": 177.39,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 192,
+   "STANDARD": "X-RING",
+   "No": "X0263",
+   "ID": 183.74,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 193,
+   "STANDARD": "X-RING",
+   "No": "X0264",
+   "ID": 190.09,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 194,
+   "STANDARD": "X-RING",
+   "No": "X0265",
+   "ID": 196.44,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 195,
+   "STANDARD": "X-RING",
+   "No": "X0266",
+   "ID": 202.79,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 196,
+   "STANDARD": "X-RING",
+   "No": "X0267",
+   "ID": 209.14,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 197,
+   "STANDARD": "X-RING",
+   "No": "X0268",
+   "ID": 215.49,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 198,
+   "STANDARD": "X-RING",
+   "No": "X0269",
+   "ID": 221.84,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 199,
+   "STANDARD": "X-RING",
+   "No": "X0270",
+   "ID": 228.19,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 200,
+   "STANDARD": "X-RING",
+   "No": "X0271",
+   "ID": 234.54,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 201,
+   "STANDARD": "X-RING",
+   "No": "X0272",
+   "ID": 240.89,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 202,
+   "STANDARD": "X-RING",
+   "No": "X0273",
+   "ID": 247.24,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 203,
+   "STANDARD": "X-RING",
+   "No": "X0274",
+   "ID": 253.59,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 204,
+   "STANDARD": "X-RING",
+   "No": "X0275",
+   "ID": 266.29,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 205,
+   "STANDARD": "X-RING",
+   "No": "X0276",
+   "ID": 278.99,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 206,
+   "STANDARD": "X-RING",
+   "No": "X0277",
+   "ID": 291.69,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 207,
+   "STANDARD": "X-RING",
+   "No": "X0278",
+   "ID": 304.39,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 208,
+   "STANDARD": "X-RING",
+   "No": "X0279",
+   "ID": 329.79,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 209,
+   "STANDARD": "X-RING",
+   "No": "X0280",
+   "ID": 355.19,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 210,
+   "STANDARD": "X-RING",
+   "No": "X0281",
+   "ID": 380.59,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 211,
+   "STANDARD": "X-RING",
+   "No": "X0282",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 212,
+   "STANDARD": "X-RING",
+   "No": "X0283",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 213,
+   "STANDARD": "X-RING",
+   "No": "X0284",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 214,
+   "STANDARD": "X-RING",
+   "No": "X0309",
+   "ID": 10.46,
+   "tolernce_id": 0.13,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 215,
+   "STANDARD": "X-RING",
+   "No": "X0310",
+   "ID": 12.07,
+   "tolernce_id": 0.13,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 216,
+   "STANDARD": "X-RING",
+   "No": "X0311",
+   "ID": 13.64,
+   "tolernce_id": 0.18,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 217,
+   "STANDARD": "X-RING",
+   "No": "X0312",
+   "ID": 15.24,
+   "tolernce_id": 0.23,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 218,
+   "STANDARD": "X-RING",
+   "No": "X0313",
+   "ID": 16.81,
+   "tolernce_id": 0.23,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 219,
+   "STANDARD": "X-RING",
+   "No": "X0314",
+   "ID": 18.42,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 220,
+   "STANDARD": "X-RING",
+   "No": "X0315",
+   "ID": 19.99,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 221,
+   "STANDARD": "X-RING",
+   "No": "X0316",
+   "ID": 21.59,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 222,
+   "STANDARD": "X-RING",
+   "No": "X0317",
+   "ID": 23.16,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 223,
+   "STANDARD": "X-RING",
+   "No": "X0318",
+   "ID": 24.77,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 224,
+   "STANDARD": "X-RING",
+   "No": "X0319",
+   "ID": 26.34,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 225,
+   "STANDARD": "X-RING",
+   "No": "X0320",
+   "ID": 27.94,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 226,
+   "STANDARD": "X-RING",
+   "No": "X0321",
+   "ID": 29.51,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 227,
+   "STANDARD": "X-RING",
+   "No": "X0322",
+   "ID": 31.12,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 228,
+   "STANDARD": "X-RING",
+   "No": "X0323",
+   "ID": 32.69,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 229,
+   "STANDARD": "X-RING",
+   "No": "X0324",
+   "ID": 34.29,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 230,
+   "STANDARD": "X-RING",
+   "No": "X0325",
+   "ID": 37.47,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 231,
+   "STANDARD": "X-RING",
+   "No": "X0326",
+   "ID": 40.64,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 232,
+   "STANDARD": "X-RING",
+   "No": "X0327",
+   "ID": 43.82,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 233,
+   "STANDARD": "X-RING",
+   "No": "X0328",
+   "ID": 46.99,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 234,
+   "STANDARD": "X-RING",
+   "No": "X0329",
+   "ID": 50.17,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 235,
+   "STANDARD": "X-RING",
+   "No": "X0330",
+   "ID": 53.34,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 236,
+   "STANDARD": "X-RING",
+   "No": "X0331",
+   "ID": 56.52,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 237,
+   "STANDARD": "X-RING",
+   "No": "X0332",
+   "ID": 59.69,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 238,
+   "STANDARD": "X-RING",
+   "No": "X0333",
+   "ID": 62.87,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 239,
+   "STANDARD": "X-RING",
+   "No": "X0334",
+   "ID": 66.04,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 240,
+   "STANDARD": "X-RING",
+   "No": "X0335",
+   "ID": 69.22,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 241,
+   "STANDARD": "X-RING",
+   "No": "X0336",
+   "ID": 72.39,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 242,
+   "STANDARD": "X-RING",
+   "No": "X0337",
+   "ID": 75.57,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 243,
+   "STANDARD": "X-RING",
+   "No": "X0338",
+   "ID": 78.74,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 244,
+   "STANDARD": "X-RING",
+   "No": "X0339",
+   "ID": 81.92,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 245,
+   "STANDARD": "X-RING",
+   "No": "X0340",
+   "ID": 85.09,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 246,
+   "STANDARD": "X-RING",
+   "No": "X0341",
+   "ID": 88.27,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 247,
+   "STANDARD": "X-RING",
+   "No": "X0342",
+   "ID": 91.44,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 248,
+   "STANDARD": "X-RING",
+   "No": "X0343",
+   "ID": 94.62,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 249,
+   "STANDARD": "X-RING",
+   "No": "X0344",
+   "ID": 97.79,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 250,
+   "STANDARD": "X-RING",
+   "No": "X0345",
+   "ID": 100.97,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 251,
+   "STANDARD": "X-RING",
+   "No": "X0346",
+   "ID": 104.14,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 252,
+   "STANDARD": "X-RING",
+   "No": "X0347",
+   "ID": 107.32,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 253,
+   "STANDARD": "X-RING",
+   "No": "X0348",
+   "ID": 110.49,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 254,
+   "STANDARD": "X-RING",
+   "No": "X0349",
+   "ID": 113.67,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 255,
+   "STANDARD": "X-RING",
+   "No": "X0350",
+   "ID": 116.84,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 256,
+   "STANDARD": "X-RING",
+   "No": "X0351",
+   "ID": 120.02,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 257,
+   "STANDARD": "X-RING",
+   "No": "X0352",
+   "ID": 123.19,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 258,
+   "STANDARD": "X-RING",
+   "No": "X0353",
+   "ID": 126.37,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 259,
+   "STANDARD": "X-RING",
+   "No": "X0354",
+   "ID": 129.54,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 260,
+   "STANDARD": "X-RING",
+   "No": "X0355",
+   "ID": 132.72,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 261,
+   "STANDARD": "X-RING",
+   "No": "X0356",
+   "ID": 135.89,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 262,
+   "STANDARD": "X-RING",
+   "No": "X0357",
+   "ID": 139.07,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 263,
+   "STANDARD": "X-RING",
+   "No": "X0358",
+   "ID": 142.24,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 264,
+   "STANDARD": "X-RING",
+   "No": "X0359",
+   "ID": 145.42,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 265,
+   "STANDARD": "X-RING",
+   "No": "X0360",
+   "ID": 148.59,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 266,
+   "STANDARD": "X-RING",
+   "No": "X0361",
+   "ID": 151.77,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 267,
+   "STANDARD": "X-RING",
+   "No": "X0362",
+   "ID": 158.12,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 268,
+   "STANDARD": "X-RING",
+   "No": "X0363",
+   "ID": 164.47,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 269,
+   "STANDARD": "X-RING",
+   "No": "X0364",
+   "ID": 170.82,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 270,
+   "STANDARD": "X-RING",
+   "No": "X0365",
+   "ID": 177.17,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 271,
+   "STANDARD": "X-RING",
+   "No": "X0366",
+   "ID": 183.52,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 272,
+   "STANDARD": "X-RING",
+   "No": "X0367",
+   "ID": 189.87,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 273,
+   "STANDARD": "X-RING",
+   "No": "X0368",
+   "ID": 196.22,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 274,
+   "STANDARD": "X-RING",
+   "No": "X0369",
+   "ID": 202.57,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 275,
+   "STANDARD": "X-RING",
+   "No": "X0370",
+   "ID": 208.92,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 276,
+   "STANDARD": "X-RING",
+   "No": "X0371",
+   "ID": 215.27,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 277,
+   "STANDARD": "X-RING",
+   "No": "X0372",
+   "ID": 221.62,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 278,
+   "STANDARD": "X-RING",
+   "No": "X0373",
+   "ID": 227.97,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 279,
+   "STANDARD": "X-RING",
+   "No": "X0374",
+   "ID": 234.32,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 280,
+   "STANDARD": "X-RING",
+   "No": "X0375",
+   "ID": 240.67,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 281,
+   "STANDARD": "X-RING",
+   "No": "X0376",
+   "ID": 247.02,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 282,
+   "STANDARD": "X-RING",
+   "No": "X0377",
+   "ID": 253.37,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 283,
+   "STANDARD": "X-RING",
+   "No": "X0378",
+   "ID": 266.07,
+   "tolernce_id": 1.52,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 284,
+   "STANDARD": "X-RING",
+   "No": "X0379",
+   "ID": 278.77,
+   "tolernce_id": 1.52,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 285,
+   "STANDARD": "X-RING",
+   "No": "X0380",
+   "ID": 291.47,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 286,
+   "STANDARD": "X-RING",
+   "No": "X0381",
+   "ID": 304.17,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 287,
+   "STANDARD": "X-RING",
+   "No": "X0382",
+   "ID": 329.57,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 288,
+   "STANDARD": "X-RING",
+   "No": "X0383",
+   "ID": 354.97,
+   "tolernce_id": 1.78,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 289,
+   "STANDARD": "X-RING",
+   "No": "X0384",
+   "ID": 380.37,
+   "tolernce_id": 1.78,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 290,
+   "STANDARD": "X-RING",
+   "No": "X0385",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 291,
+   "STANDARD": "X-RING",
+   "No": "X0386",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 292,
+   "STANDARD": "X-RING",
+   "No": "X0387",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 293,
+   "STANDARD": "X-RING",
+   "No": "X0388",
+   "ID": 481.46,
+   "tolernce_id": 2.29,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 294,
+   "STANDARD": "X-RING",
+   "No": "X0389",
+   "ID": 506.86,
+   "tolernce_id": 2.41,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 295,
+   "STANDARD": "X-RING",
+   "No": "X0390",
+   "ID": 532.26,
+   "tolernce_id": 2.41,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 296,
+   "STANDARD": "X-RING",
+   "No": "X0391",
+   "ID": 557.66,
+   "tolernce_id": 2.54,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 297,
+   "STANDARD": "X-RING",
+   "No": "X0392",
+   "ID": 582.68,
+   "tolernce_id": 2.67,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 298,
+   "STANDARD": "X-RING",
+   "No": "X0393",
+   "ID": 608.08,
+   "tolernce_id": 2.79,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 299,
+   "STANDARD": "X-RING",
+   "No": "X0394",
+   "ID": 633.48,
+   "tolernce_id": 2.92,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 300,
+   "STANDARD": "X-RING",
+   "No": "X0395",
+   "ID": 658.88,
+   "tolernce_id": 3.05,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 301,
+   "STANDARD": "X-RING",
+   "No": "X0400",
+   "ID": 34.29,
+   "tolernce_id": 0.33,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 302,
+   "STANDARD": "X-RING",
+   "No": "X0401",
+   "ID": 37.47,
+   "tolernce_id": 0.36,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 303,
+   "STANDARD": "X-RING",
+   "No": "X0402",
+   "ID": 40.64,
+   "tolernce_id": 0.39,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 304,
+   "STANDARD": "X-RING",
+   "No": "X0403",
+   "ID": 43.82,
+   "tolernce_id": 0.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 305,
+   "STANDARD": "X-RING",
+   "No": "X0404",
+   "ID": 46.99,
+   "tolernce_id": 0.44,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 306,
+   "STANDARD": "X-RING",
+   "No": "X0405",
+   "ID": 50.17,
+   "tolernce_id": 0.46,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 307,
+   "STANDARD": "X-RING",
+   "No": "X0406",
+   "ID": 53.34,
+   "tolernce_id": 0.48,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 308,
+   "STANDARD": "X-RING",
+   "No": "X0407",
+   "ID": 56.52,
+   "tolernce_id": 0.51,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 309,
+   "STANDARD": "X-RING",
+   "No": "X0408",
+   "ID": 59.69,
+   "tolernce_id": 0.54,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 310,
+   "STANDARD": "X-RING",
+   "No": "X0409",
+   "ID": 62.87,
+   "tolernce_id": 0.56,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 311,
+   "STANDARD": "X-RING",
+   "No": "X0410",
+   "ID": 66.04,
+   "tolernce_id": 0.59,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 312,
+   "STANDARD": "X-RING",
+   "No": "X0411",
+   "ID": 69.22,
+   "tolernce_id": 0.61,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 313,
+   "STANDARD": "X-RING",
+   "No": "X0412",
+   "ID": 72.39,
+   "tolernce_id": 0.64,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 314,
+   "STANDARD": "X-RING",
+   "No": "X0413",
+   "ID": 75.57,
+   "tolernce_id": 0.66,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 315,
+   "STANDARD": "X-RING",
+   "No": "X0414",
+   "ID": 78.74,
+   "tolernce_id": 0.67,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 316,
+   "STANDARD": "X-RING",
+   "No": "X0415",
+   "ID": 81.92,
+   "tolernce_id": 0.71,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 317,
+   "STANDARD": "X-RING",
+   "No": "X0416",
+   "ID": 85.09,
+   "tolernce_id": 0.73,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 318,
+   "STANDARD": "X-RING",
+   "No": "X0417",
+   "ID": 88.27,
+   "tolernce_id": 0.75,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 319,
+   "STANDARD": "X-RING",
+   "No": "X0418",
+   "ID": 91.44,
+   "tolernce_id": 0.79,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 320,
+   "STANDARD": "X-RING",
+   "No": "X0419",
+   "ID": 94.62,
+   "tolernce_id": 0.81,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 321,
+   "STANDARD": "X-RING",
+   "No": "X0420",
+   "ID": 97.79,
+   "tolernce_id": 0.83,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 322,
+   "STANDARD": "X-RING",
+   "No": "X0421",
+   "ID": 100.97,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 323,
+   "STANDARD": "X-RING",
+   "No": "X0422",
+   "ID": 104.14,
+   "tolernce_id": 0.87,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 324,
+   "STANDARD": "X-RING",
+   "No": "X0423",
+   "ID": 107.32,
+   "tolernce_id": 0.89,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 325,
+   "STANDARD": "X-RING",
+   "No": "X0424",
+   "ID": 110.49,
+   "tolernce_id": 0.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 326,
+   "STANDARD": "X-RING",
+   "No": "X0425",
+   "ID": 113.67,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 327,
+   "STANDARD": "X-RING",
+   "No": "X0426",
+   "ID": 116.84,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 328,
+   "STANDARD": "X-RING",
+   "No": "X0427",
+   "ID": 120.02,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 329,
+   "STANDARD": "X-RING",
+   "No": "X0428",
+   "ID": 123.19,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 330,
+   "STANDARD": "X-RING",
+   "No": "X0429",
+   "ID": 126.37,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 331,
+   "STANDARD": "X-RING",
+   "No": "X0430",
+   "ID": 129.54,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 332,
+   "STANDARD": "X-RING",
+   "No": "X0431",
+   "ID": 132.72,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 333,
+   "STANDARD": "X-RING",
+   "No": "X0432",
+   "ID": 135.89,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 334,
+   "STANDARD": "X-RING",
+   "No": "X0433",
+   "ID": 139.07,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 335,
+   "STANDARD": "X-RING",
+   "No": "X0434",
+   "ID": 142.24,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 336,
+   "STANDARD": "X-RING",
+   "No": "X0435",
+   "ID": 145.42,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 337,
+   "STANDARD": "X-RING",
+   "No": "X0436",
+   "ID": 148.59,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 338,
+   "STANDARD": "X-RING",
+   "No": "X0437",
+   "ID": 151.77,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 339,
+   "STANDARD": "X-RING",
+   "No": "X0438",
+   "ID": 158.12,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 340,
+   "STANDARD": "X-RING",
+   "No": "X0439",
+   "ID": 164.47,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 341,
+   "STANDARD": "X-RING",
+   "No": "X0440",
+   "ID": 170.82,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 342,
+   "STANDARD": "X-RING",
+   "No": "X0441",
+   "ID": 177.17,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 343,
+   "STANDARD": "X-RING",
+   "No": "X0442",
+   "ID": 183.52,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 344,
+   "STANDARD": "X-RING",
+   "No": "X0443",
+   "ID": 189.87,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 345,
+   "STANDARD": "X-RING",
+   "No": "X0444",
+   "ID": 196.22,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 346,
+   "STANDARD": "X-RING",
+   "No": "X0445",
+   "ID": 202.57,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 347,
+   "STANDARD": "X-RING",
+   "No": "X0446",
+   "ID": 215.27,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 348,
+   "STANDARD": "X-RING",
+   "No": "X0447",
+   "ID": 227.97,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 349,
+   "STANDARD": "X-RING",
+   "No": "X0448",
+   "ID": 240.67,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 350,
+   "STANDARD": "X-RING",
+   "No": "X0449",
+   "ID": 253.37,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 351,
+   "STANDARD": "X-RING",
+   "No": "X0450",
+   "ID": 266.07,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 352,
+   "STANDARD": "X-RING",
+   "No": "X0451",
+   "ID": 278.77,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 353,
+   "STANDARD": "X-RING",
+   "No": "X0452",
+   "ID": 291.47,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 354,
+   "STANDARD": "X-RING",
+   "No": "X0453",
+   "ID": 304.17,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 355,
+   "STANDARD": "X-RING",
+   "No": "X0454",
+   "ID": 316.87,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 356,
+   "STANDARD": "X-RING",
+   "No": "X0455",
+   "ID": 329.57,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 357,
+   "STANDARD": "X-RING",
+   "No": "X0456",
+   "ID": 342.27,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 358,
+   "STANDARD": "X-RING",
+   "No": "X0457",
+   "ID": 354.97,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 359,
+   "STANDARD": "X-RING",
+   "No": "X0458",
+   "ID": 367.67,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 360,
+   "STANDARD": "X-RING",
+   "No": "X0459",
+   "ID": 380.37,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 361,
+   "STANDARD": "X-RING",
+   "No": "X0460",
+   "ID": 393.07,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 362,
+   "STANDARD": "X-RING",
+   "No": "X0461",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 363,
+   "STANDARD": "X-RING",
+   "No": "X0462",
+   "ID": 417.96,
+   "tolernce_id": 1.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 364,
+   "STANDARD": "X-RING",
+   "No": "X0463",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 365,
+   "STANDARD": "X-RING",
+   "No": "X0464",
+   "ID": 443.36,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 366,
+   "STANDARD": "X-RING",
+   "No": "X0465",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 367,
+   "STANDARD": "X-RING",
+   "No": "X0466",
+   "ID": 468.76,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 368,
+   "STANDARD": "X-RING",
+   "No": "X0467",
+   "ID": 481.46,
+   "tolernce_id": 2.29,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 369,
+   "STANDARD": "X-RING",
+   "No": "X0468",
+   "ID": 494.16,
+   "tolernce_id": 2.29,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 370,
+   "STANDARD": "X-RING",
+   "No": "X0469",
+   "ID": 506.86,
+   "tolernce_id": 2.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 371,
+   "STANDARD": "X-RING",
+   "No": "X0470",
+   "ID": 532.26,
+   "tolernce_id": 2.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 372,
+   "STANDARD": "X-RING",
+   "No": "X0471",
+   "ID": 557.66,
+   "tolernce_id": 2.54,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 373,
+   "STANDARD": "X-RING",
+   "No": "X0472",
+   "ID": 582.68,
+   "tolernce_id": 2.67,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 374,
+   "STANDARD": "X-RING",
+   "No": "X0473",
+   "ID": 608.08,
+   "tolernce_id": 2.79,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 375,
+   "STANDARD": "X-RING",
+   "No": "X0474",
+   "ID": 633.48,
+   "tolernce_id": 2.92,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 376,
+   "STANDARD": "X-RING",
+   "No": "X0475",
+   "ID": 658.88,
+   "tolernce_id": 3.05,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ }
+]

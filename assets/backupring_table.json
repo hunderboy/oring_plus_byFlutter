@@ -1,0 +1,3386 @@
+[
+ {
+   "ListNo": 1,
+   "STANDARD": "BACK UP RING",
+   "No": "B0004",
+   "ID": 1.78,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 2,
+   "STANDARD": "BACK UP RING",
+   "No": "B0005",
+   "ID": 2.57,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 3,
+   "STANDARD": "BACK UP RING",
+   "No": "B0006",
+   "ID": 2.9,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 4,
+   "STANDARD": "BACK UP RING",
+   "No": "B0007",
+   "ID": 3.68,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 5,
+   "STANDARD": "BACK UP RING",
+   "No": "B0008",
+   "ID": 4.47,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 6,
+   "STANDARD": "BACK UP RING",
+   "No": "B0009",
+   "ID": 5.28,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 7,
+   "STANDARD": "BACK UP RING",
+   "No": "B0010",
+   "ID": 6.07,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 8,
+   "STANDARD": "BACK UP RING",
+   "No": "B0011",
+   "ID": 7.65,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 9,
+   "STANDARD": "BACK UP RING",
+   "No": "B0012",
+   "ID": 9.25,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 10,
+   "STANDARD": "BACK UP RING",
+   "No": "B0013",
+   "ID": 10.82,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 11,
+   "STANDARD": "BACK UP RING",
+   "No": "B0014",
+   "ID": 12.42,
+   "tolernce_id": 0.13,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 12,
+   "STANDARD": "BACK UP RING",
+   "No": "B0015",
+   "ID": 14,
+   "tolernce_id": 0.18,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 13,
+   "STANDARD": "BACK UP RING",
+   "No": "B0016",
+   "ID": 15.6,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 14,
+   "STANDARD": "BACK UP RING",
+   "No": "B0017",
+   "ID": 17.17,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 15,
+   "STANDARD": "BACK UP RING",
+   "No": "B0018",
+   "ID": 18.77,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 16,
+   "STANDARD": "BACK UP RING",
+   "No": "B0019",
+   "ID": 20.35,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 17,
+   "STANDARD": "BACK UP RING",
+   "No": "B0020",
+   "ID": 21.95,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 18,
+   "STANDARD": "BACK UP RING",
+   "No": "B0021",
+   "ID": 23.52,
+   "tolernce_id": 0.23,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 19,
+   "STANDARD": "BACK UP RING",
+   "No": "B0022",
+   "ID": 25.12,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 20,
+   "STANDARD": "BACK UP RING",
+   "No": "B0023",
+   "ID": 26.7,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 21,
+   "STANDARD": "BACK UP RING",
+   "No": "B0024",
+   "ID": 28.3,
+   "tolernce_id": 0.25,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 22,
+   "STANDARD": "BACK UP RING",
+   "No": "B0025",
+   "ID": 29.87,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 23,
+   "STANDARD": "BACK UP RING",
+   "No": "B0026",
+   "ID": 31.47,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 24,
+   "STANDARD": "BACK UP RING",
+   "No": "B0027",
+   "ID": 33.05,
+   "tolernce_id": 0.28,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 25,
+   "STANDARD": "BACK UP RING",
+   "No": "B0028",
+   "ID": 34.65,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 26,
+   "STANDARD": "BACK UP RING",
+   "No": "B0029",
+   "ID": 37.82,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 27,
+   "STANDARD": "BACK UP RING",
+   "No": "B0030",
+   "ID": 41,
+   "tolernce_id": 0.33,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 28,
+   "STANDARD": "BACK UP RING",
+   "No": "B0031",
+   "ID": 44.17,
+   "tolernce_id": 0.38,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 29,
+   "STANDARD": "BACK UP RING",
+   "No": "B0032",
+   "ID": 47.35,
+   "tolernce_id": 0.38,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 30,
+   "STANDARD": "BACK UP RING",
+   "No": "B0033",
+   "ID": 50.52,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 31,
+   "STANDARD": "BACK UP RING",
+   "No": "B0034",
+   "ID": 53.7,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 32,
+   "STANDARD": "BACK UP RING",
+   "No": "B0035",
+   "ID": 56.87,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 33,
+   "STANDARD": "BACK UP RING",
+   "No": "B0036",
+   "ID": 60.05,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 34,
+   "STANDARD": "BACK UP RING",
+   "No": "B0037",
+   "ID": 63.22,
+   "tolernce_id": 0.46,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 35,
+   "STANDARD": "BACK UP RING",
+   "No": "B0038",
+   "ID": 66.4,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 36,
+   "STANDARD": "BACK UP RING",
+   "No": "B0039",
+   "ID": 69.57,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 37,
+   "STANDARD": "BACK UP RING",
+   "No": "B0040",
+   "ID": 72.75,
+   "tolernce_id": 0.51,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 38,
+   "STANDARD": "BACK UP RING",
+   "No": "B0041",
+   "ID": 75.92,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 39,
+   "STANDARD": "BACK UP RING",
+   "No": "B0042",
+   "ID": 82.27,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 40,
+   "STANDARD": "BACK UP RING",
+   "No": "B0043",
+   "ID": 88.62,
+   "tolernce_id": 0.61,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 41,
+   "STANDARD": "BACK UP RING",
+   "No": "B0044",
+   "ID": 94.97,
+   "tolernce_id": 0.69,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 42,
+   "STANDARD": "BACK UP RING",
+   "No": "B0045",
+   "ID": 101.32,
+   "tolernce_id": 0.69,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 43,
+   "STANDARD": "BACK UP RING",
+   "No": "B0046",
+   "ID": 107.67,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 44,
+   "STANDARD": "BACK UP RING",
+   "No": "B0047",
+   "ID": 114.02,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 45,
+   "STANDARD": "BACK UP RING",
+   "No": "B0048",
+   "ID": 120.37,
+   "tolernce_id": 0.76,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 46,
+   "STANDARD": "BACK UP RING",
+   "No": "B0049",
+   "ID": 126.72,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 47,
+   "STANDARD": "BACK UP RING",
+   "No": "B0050",
+   "ID": 133.07,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 48,
+   "STANDARD": "BACK UP RING",
+   "No": "B0051",
+   "ID": 139.42,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 49,
+   "STANDARD": "BACK UP RING",
+   "No": "B0052",
+   "ID": 145.77,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 50,
+   "STANDARD": "BACK UP RING",
+   "No": "B0053",
+   "ID": 152.12,
+   "tolernce_id": 0.94,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 51,
+   "STANDARD": "BACK UP RING",
+   "No": "B0054",
+   "ID": 158.47,
+   "tolernce_id": 1.02,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 52,
+   "STANDARD": "BACK UP RING",
+   "No": "B0055",
+   "ID": 164.82,
+   "tolernce_id": 1.02,
+   "CS": 1.78,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 53,
+   "STANDARD": "BACK UP RING",
+   "No": "B0102",
+   "ID": 1.24,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 54,
+   "STANDARD": "BACK UP RING",
+   "No": "B0103",
+   "ID": 2.06,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 55,
+   "STANDARD": "BACK UP RING",
+   "No": "B0104",
+   "ID": 2.84,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 56,
+   "STANDARD": "BACK UP RING",
+   "No": "B0105",
+   "ID": 3.63,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 57,
+   "STANDARD": "BACK UP RING",
+   "No": "B0106",
+   "ID": 4.42,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 58,
+   "STANDARD": "BACK UP RING",
+   "No": "B0107",
+   "ID": 5.23,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 59,
+   "STANDARD": "BACK UP RING",
+   "No": "B0108",
+   "ID": 6.02,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 60,
+   "STANDARD": "BACK UP RING",
+   "No": "B0109",
+   "ID": 7.59,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 61,
+   "STANDARD": "BACK UP RING",
+   "No": "B0110",
+   "ID": 9.19,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 62,
+   "STANDARD": "BACK UP RING",
+   "No": "B0111",
+   "ID": 10.77,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 63,
+   "STANDARD": "BACK UP RING",
+   "No": "B0112",
+   "ID": 12.37,
+   "tolernce_id": 0.13,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 64,
+   "STANDARD": "BACK UP RING",
+   "No": "B0113",
+   "ID": 13.94,
+   "tolernce_id": 0.18,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 65,
+   "STANDARD": "BACK UP RING",
+   "No": "B0114",
+   "ID": 15.54,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 66,
+   "STANDARD": "BACK UP RING",
+   "No": "B0115",
+   "ID": 17.12,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 67,
+   "STANDARD": "BACK UP RING",
+   "No": "B0116",
+   "ID": 18.72,
+   "tolernce_id": 0.23,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 68,
+   "STANDARD": "BACK UP RING",
+   "No": "B0117",
+   "ID": 20.29,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 69,
+   "STANDARD": "BACK UP RING",
+   "No": "B0118",
+   "ID": 21.89,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 70,
+   "STANDARD": "BACK UP RING",
+   "No": "B0119",
+   "ID": 23.47,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 71,
+   "STANDARD": "BACK UP RING",
+   "No": "B0120",
+   "ID": 25.07,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 72,
+   "STANDARD": "BACK UP RING",
+   "No": "B0121",
+   "ID": 26.64,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 73,
+   "STANDARD": "BACK UP RING",
+   "No": "B0122",
+   "ID": 28.24,
+   "tolernce_id": 0.25,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 74,
+   "STANDARD": "BACK UP RING",
+   "No": "B0123",
+   "ID": 29.82,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 75,
+   "STANDARD": "BACK UP RING",
+   "No": "B0124",
+   "ID": 31.42,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 76,
+   "STANDARD": "BACK UP RING",
+   "No": "B0125",
+   "ID": 32.99,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 77,
+   "STANDARD": "BACK UP RING",
+   "No": "B0126",
+   "ID": 34.59,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 78,
+   "STANDARD": "BACK UP RING",
+   "No": "B0127",
+   "ID": 36.17,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 79,
+   "STANDARD": "BACK UP RING",
+   "No": "B0128",
+   "ID": 37.77,
+   "tolernce_id": 0.3,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 80,
+   "STANDARD": "BACK UP RING",
+   "No": "B0129",
+   "ID": 39.34,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 81,
+   "STANDARD": "BACK UP RING",
+   "No": "B0130",
+   "ID": 40.94,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 82,
+   "STANDARD": "BACK UP RING",
+   "No": "B0131",
+   "ID": 42.52,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 83,
+   "STANDARD": "BACK UP RING",
+   "No": "B0132",
+   "ID": 44.12,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 84,
+   "STANDARD": "BACK UP RING",
+   "No": "B0133",
+   "ID": 45.69,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 85,
+   "STANDARD": "BACK UP RING",
+   "No": "B0134",
+   "ID": 47.29,
+   "tolernce_id": 0.38,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 86,
+   "STANDARD": "BACK UP RING",
+   "No": "B0135",
+   "ID": 48.9,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 87,
+   "STANDARD": "BACK UP RING",
+   "No": "B0136",
+   "ID": 50.47,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 88,
+   "STANDARD": "BACK UP RING",
+   "No": "B0137",
+   "ID": 52.07,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 89,
+   "STANDARD": "BACK UP RING",
+   "No": "B0138",
+   "ID": 53.64,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 90,
+   "STANDARD": "BACK UP RING",
+   "No": "B0139",
+   "ID": 55.25,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 91,
+   "STANDARD": "BACK UP RING",
+   "No": "B0140",
+   "ID": 56.82,
+   "tolernce_id": 0.43,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 92,
+   "STANDARD": "BACK UP RING",
+   "No": "B0141",
+   "ID": 58.42,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 93,
+   "STANDARD": "BACK UP RING",
+   "No": "B0142",
+   "ID": 59.99,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 94,
+   "STANDARD": "BACK UP RING",
+   "No": "B0143",
+   "ID": 61.6,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 95,
+   "STANDARD": "BACK UP RING",
+   "No": "B0144",
+   "ID": 63.17,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 96,
+   "STANDARD": "BACK UP RING",
+   "No": "B0145",
+   "ID": 64.77,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 97,
+   "STANDARD": "BACK UP RING",
+   "No": "B0146",
+   "ID": 66.34,
+   "tolernce_id": 0.51,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 98,
+   "STANDARD": "BACK UP RING",
+   "No": "B0147",
+   "ID": 67.95,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 99,
+   "STANDARD": "BACK UP RING",
+   "No": "B0148",
+   "ID": 69.52,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 100,
+   "STANDARD": "BACK UP RING",
+   "No": "B0149",
+   "ID": 71.12,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 101,
+   "STANDARD": "BACK UP RING",
+   "No": "B0150",
+   "ID": 72.69,
+   "tolernce_id": 0.56,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 102,
+   "STANDARD": "BACK UP RING",
+   "No": "B0151",
+   "ID": 75.87,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 103,
+   "STANDARD": "BACK UP RING",
+   "No": "B0152",
+   "ID": 82.22,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 104,
+   "STANDARD": "BACK UP RING",
+   "No": "B0153",
+   "ID": 88.57,
+   "tolernce_id": 0.61,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 105,
+   "STANDARD": "BACK UP RING",
+   "No": "B0154",
+   "ID": 94.92,
+   "tolernce_id": 0.71,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 106,
+   "STANDARD": "BACK UP RING",
+   "No": "B0155",
+   "ID": 101.27,
+   "tolernce_id": 0.71,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 107,
+   "STANDARD": "BACK UP RING",
+   "No": "B0156",
+   "ID": 107.62,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 108,
+   "STANDARD": "BACK UP RING",
+   "No": "B0157",
+   "ID": 113.97,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 109,
+   "STANDARD": "BACK UP RING",
+   "No": "B0158",
+   "ID": 120.32,
+   "tolernce_id": 0.76,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 110,
+   "STANDARD": "BACK UP RING",
+   "No": "B0159",
+   "ID": 126.67,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 111,
+   "STANDARD": "BACK UP RING",
+   "No": "B0160",
+   "ID": 133.02,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 112,
+   "STANDARD": "BACK UP RING",
+   "No": "B0161",
+   "ID": 139.37,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 113,
+   "STANDARD": "BACK UP RING",
+   "No": "B0162",
+   "ID": 145.72,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 114,
+   "STANDARD": "BACK UP RING",
+   "No": "B0163",
+   "ID": 152.07,
+   "tolernce_id": 0.89,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 115,
+   "STANDARD": "BACK UP RING",
+   "No": "B0164",
+   "ID": 158.42,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 116,
+   "STANDARD": "BACK UP RING",
+   "No": "B0165",
+   "ID": 164.77,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 117,
+   "STANDARD": "BACK UP RING",
+   "No": "B0166",
+   "ID": 171.12,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 118,
+   "STANDARD": "BACK UP RING",
+   "No": "B0167",
+   "ID": 177.47,
+   "tolernce_id": 1.02,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 119,
+   "STANDARD": "BACK UP RING",
+   "No": "B0168",
+   "ID": 183.82,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 120,
+   "STANDARD": "BACK UP RING",
+   "No": "B0169",
+   "ID": 190.17,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 121,
+   "STANDARD": "BACK UP RING",
+   "No": "B0170",
+   "ID": 196.52,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 122,
+   "STANDARD": "BACK UP RING",
+   "No": "B0171",
+   "ID": 202.87,
+   "tolernce_id": 1.14,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 123,
+   "STANDARD": "BACK UP RING",
+   "No": "B0172",
+   "ID": 209.22,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 124,
+   "STANDARD": "BACK UP RING",
+   "No": "B0173",
+   "ID": 215.57,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 125,
+   "STANDARD": "BACK UP RING",
+   "No": "B0174",
+   "ID": 221.92,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 126,
+   "STANDARD": "BACK UP RING",
+   "No": "B0175",
+   "ID": 228.27,
+   "tolernce_id": 1.27,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 127,
+   "STANDARD": "BACK UP RING",
+   "No": "B0176",
+   "ID": 234.62,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 128,
+   "STANDARD": "BACK UP RING",
+   "No": "B0177",
+   "ID": 240.97,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 129,
+   "STANDARD": "BACK UP RING",
+   "No": "B0178",
+   "ID": 247.32,
+   "tolernce_id": 1.4,
+   "CS": 2.62,
+   "tolernce_cs": 0.08
+ },
+ {
+   "ListNo": 130,
+   "STANDARD": "BACK UP RING",
+   "No": "B0201",
+   "ID": 4.34,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 131,
+   "STANDARD": "BACK UP RING",
+   "No": "B0202",
+   "ID": 5.94,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 132,
+   "STANDARD": "BACK UP RING",
+   "No": "B0203",
+   "ID": 7.52,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 133,
+   "STANDARD": "BACK UP RING",
+   "No": "B0204",
+   "ID": 9.12,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 134,
+   "STANDARD": "BACK UP RING",
+   "No": "B0205",
+   "ID": 10.69,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 135,
+   "STANDARD": "BACK UP RING",
+   "No": "B0206",
+   "ID": 12.29,
+   "tolernce_id": 0.13,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 136,
+   "STANDARD": "BACK UP RING",
+   "No": "B0207",
+   "ID": 13.87,
+   "tolernce_id": 0.18,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 137,
+   "STANDARD": "BACK UP RING",
+   "No": "B0208",
+   "ID": 15.47,
+   "tolernce_id": 0.23,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 138,
+   "STANDARD": "BACK UP RING",
+   "No": "B0209",
+   "ID": 17.04,
+   "tolernce_id": 0.23,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 139,
+   "STANDARD": "BACK UP RING",
+   "No": "B0210",
+   "ID": 18.64,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 140,
+   "STANDARD": "BACK UP RING",
+   "No": "B0211",
+   "ID": 20.22,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 141,
+   "STANDARD": "BACK UP RING",
+   "No": "B0212",
+   "ID": 21.82,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 142,
+   "STANDARD": "BACK UP RING",
+   "No": "B0213",
+   "ID": 23.39,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 143,
+   "STANDARD": "BACK UP RING",
+   "No": "B0214",
+   "ID": 24.99,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 144,
+   "STANDARD": "BACK UP RING",
+   "No": "B0215",
+   "ID": 26.57,
+   "tolernce_id": 0.25,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 145,
+   "STANDARD": "BACK UP RING",
+   "No": "B0216",
+   "ID": 28.17,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 146,
+   "STANDARD": "BACK UP RING",
+   "No": "B0217",
+   "ID": 29.74,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 147,
+   "STANDARD": "BACK UP RING",
+   "No": "B0218",
+   "ID": 31.34,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 148,
+   "STANDARD": "BACK UP RING",
+   "No": "B0219",
+   "ID": 32.92,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 149,
+   "STANDARD": "BACK UP RING",
+   "No": "B0220",
+   "ID": 34.52,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 150,
+   "STANDARD": "BACK UP RING",
+   "No": "B0221",
+   "ID": 36.09,
+   "tolernce_id": 0.3,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 151,
+   "STANDARD": "BACK UP RING",
+   "No": "B0222",
+   "ID": 37.69,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 152,
+   "STANDARD": "BACK UP RING",
+   "No": "B0223",
+   "ID": 40.87,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 153,
+   "STANDARD": "BACK UP RING",
+   "No": "B0224",
+   "ID": 44.04,
+   "tolernce_id": 0.38,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 154,
+   "STANDARD": "BACK UP RING",
+   "No": "B0225",
+   "ID": 47.22,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 155,
+   "STANDARD": "BACK UP RING",
+   "No": "B0226",
+   "ID": 50.39,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 156,
+   "STANDARD": "BACK UP RING",
+   "No": "B0227",
+   "ID": 53.57,
+   "tolernce_id": 0.46,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 157,
+   "STANDARD": "BACK UP RING",
+   "No": "B0228",
+   "ID": 56.74,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 158,
+   "STANDARD": "BACK UP RING",
+   "No": "B0229",
+   "ID": 59.92,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 159,
+   "STANDARD": "BACK UP RING",
+   "No": "B0230",
+   "ID": 63.09,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 160,
+   "STANDARD": "BACK UP RING",
+   "No": "B0231",
+   "ID": 66.27,
+   "tolernce_id": 0.51,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 161,
+   "STANDARD": "BACK UP RING",
+   "No": "B0232",
+   "ID": 69.44,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 162,
+   "STANDARD": "BACK UP RING",
+   "No": "B0233",
+   "ID": 72.62,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 163,
+   "STANDARD": "BACK UP RING",
+   "No": "B0234",
+   "ID": 75.79,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 164,
+   "STANDARD": "BACK UP RING",
+   "No": "B0235",
+   "ID": 78.97,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 165,
+   "STANDARD": "BACK UP RING",
+   "No": "B0236",
+   "ID": 82.14,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 166,
+   "STANDARD": "BACK UP RING",
+   "No": "B0237",
+   "ID": 85.32,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 167,
+   "STANDARD": "BACK UP RING",
+   "No": "B0238",
+   "ID": 88.49,
+   "tolernce_id": 0.61,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 168,
+   "STANDARD": "BACK UP RING",
+   "No": "B0239",
+   "ID": 91.67,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 169,
+   "STANDARD": "BACK UP RING",
+   "No": "B0240",
+   "ID": 94.84,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 170,
+   "STANDARD": "BACK UP RING",
+   "No": "B0241",
+   "ID": 98.02,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 171,
+   "STANDARD": "BACK UP RING",
+   "No": "B0242",
+   "ID": 101.19,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 172,
+   "STANDARD": "BACK UP RING",
+   "No": "B0243",
+   "ID": 104.37,
+   "tolernce_id": 0.71,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 173,
+   "STANDARD": "BACK UP RING",
+   "No": "B0244",
+   "ID": 107.54,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 174,
+   "STANDARD": "BACK UP RING",
+   "No": "B0245",
+   "ID": 110.72,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 175,
+   "STANDARD": "BACK UP RING",
+   "No": "B0246",
+   "ID": 113.89,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 176,
+   "STANDARD": "BACK UP RING",
+   "No": "B0247",
+   "ID": 117.07,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 177,
+   "STANDARD": "BACK UP RING",
+   "No": "B0248",
+   "ID": 120.24,
+   "tolernce_id": 0.76,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 178,
+   "STANDARD": "BACK UP RING",
+   "No": "B0249",
+   "ID": 123.42,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 179,
+   "STANDARD": "BACK UP RING",
+   "No": "B0250",
+   "ID": 126.59,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 180,
+   "STANDARD": "BACK UP RING",
+   "No": "B0251",
+   "ID": 129.77,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 181,
+   "STANDARD": "BACK UP RING",
+   "No": "B0252",
+   "ID": 132.94,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 182,
+   "STANDARD": "BACK UP RING",
+   "No": "B0253",
+   "ID": 136.12,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 183,
+   "STANDARD": "BACK UP RING",
+   "No": "B0254",
+   "ID": 139.29,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 184,
+   "STANDARD": "BACK UP RING",
+   "No": "B0255",
+   "ID": 142.47,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 185,
+   "STANDARD": "BACK UP RING",
+   "No": "B0256",
+   "ID": 145.64,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 186,
+   "STANDARD": "BACK UP RING",
+   "No": "B0257",
+   "ID": 148.82,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 187,
+   "STANDARD": "BACK UP RING",
+   "No": "B0258",
+   "ID": 151.99,
+   "tolernce_id": 0.89,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 188,
+   "STANDARD": "BACK UP RING",
+   "No": "B0259",
+   "ID": 158.34,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 189,
+   "STANDARD": "BACK UP RING",
+   "No": "B0260",
+   "ID": 164.69,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 190,
+   "STANDARD": "BACK UP RING",
+   "No": "B0261",
+   "ID": 171.04,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 191,
+   "STANDARD": "BACK UP RING",
+   "No": "B0262",
+   "ID": 177.39,
+   "tolernce_id": 1.02,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 192,
+   "STANDARD": "BACK UP RING",
+   "No": "B0263",
+   "ID": 183.74,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 193,
+   "STANDARD": "BACK UP RING",
+   "No": "B0264",
+   "ID": 190.09,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 194,
+   "STANDARD": "BACK UP RING",
+   "No": "B0265",
+   "ID": 196.44,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 195,
+   "STANDARD": "BACK UP RING",
+   "No": "B0266",
+   "ID": 202.79,
+   "tolernce_id": 1.14,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 196,
+   "STANDARD": "BACK UP RING",
+   "No": "B0267",
+   "ID": 209.14,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 197,
+   "STANDARD": "BACK UP RING",
+   "No": "B0268",
+   "ID": 215.49,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 198,
+   "STANDARD": "BACK UP RING",
+   "No": "B0269",
+   "ID": 221.84,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 199,
+   "STANDARD": "BACK UP RING",
+   "No": "B0270",
+   "ID": 228.19,
+   "tolernce_id": 1.27,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 200,
+   "STANDARD": "BACK UP RING",
+   "No": "B0271",
+   "ID": 234.54,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 201,
+   "STANDARD": "BACK UP RING",
+   "No": "B0272",
+   "ID": 240.89,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 202,
+   "STANDARD": "BACK UP RING",
+   "No": "B0273",
+   "ID": 247.24,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 203,
+   "STANDARD": "BACK UP RING",
+   "No": "B0274",
+   "ID": 253.59,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 204,
+   "STANDARD": "BACK UP RING",
+   "No": "B0275",
+   "ID": 266.29,
+   "tolernce_id": 1.4,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 205,
+   "STANDARD": "BACK UP RING",
+   "No": "B0276",
+   "ID": 278.99,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 206,
+   "STANDARD": "BACK UP RING",
+   "No": "B0277",
+   "ID": 291.69,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 207,
+   "STANDARD": "BACK UP RING",
+   "No": "B0278",
+   "ID": 304.39,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 208,
+   "STANDARD": "BACK UP RING",
+   "No": "B0279",
+   "ID": 329.79,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 209,
+   "STANDARD": "BACK UP RING",
+   "No": "B0280",
+   "ID": 355.19,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 210,
+   "STANDARD": "BACK UP RING",
+   "No": "B0281",
+   "ID": 380.59,
+   "tolernce_id": 1.65,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 211,
+   "STANDARD": "BACK UP RING",
+   "No": "B0282",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 212,
+   "STANDARD": "BACK UP RING",
+   "No": "B0283",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 213,
+   "STANDARD": "BACK UP RING",
+   "No": "B0284",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 3.53,
+   "tolernce_cs": 0.1
+ },
+ {
+   "ListNo": 214,
+   "STANDARD": "BACK UP RING",
+   "No": "B0309",
+   "ID": 10.46,
+   "tolernce_id": 0.13,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 215,
+   "STANDARD": "BACK UP RING",
+   "No": "B0310",
+   "ID": 12.07,
+   "tolernce_id": 0.13,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 216,
+   "STANDARD": "BACK UP RING",
+   "No": "B0311",
+   "ID": 13.64,
+   "tolernce_id": 0.18,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 217,
+   "STANDARD": "BACK UP RING",
+   "No": "B0312",
+   "ID": 15.24,
+   "tolernce_id": 0.23,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 218,
+   "STANDARD": "BACK UP RING",
+   "No": "B0313",
+   "ID": 16.81,
+   "tolernce_id": 0.23,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 219,
+   "STANDARD": "BACK UP RING",
+   "No": "B0314",
+   "ID": 18.42,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 220,
+   "STANDARD": "BACK UP RING",
+   "No": "B0315",
+   "ID": 19.99,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 221,
+   "STANDARD": "BACK UP RING",
+   "No": "B0316",
+   "ID": 21.59,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 222,
+   "STANDARD": "BACK UP RING",
+   "No": "B0317",
+   "ID": 23.16,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 223,
+   "STANDARD": "BACK UP RING",
+   "No": "B0318",
+   "ID": 24.77,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 224,
+   "STANDARD": "BACK UP RING",
+   "No": "B0319",
+   "ID": 26.34,
+   "tolernce_id": 0.25,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 225,
+   "STANDARD": "BACK UP RING",
+   "No": "B0320",
+   "ID": 27.94,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 226,
+   "STANDARD": "BACK UP RING",
+   "No": "B0321",
+   "ID": 29.51,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 227,
+   "STANDARD": "BACK UP RING",
+   "No": "B0322",
+   "ID": 31.12,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 228,
+   "STANDARD": "BACK UP RING",
+   "No": "B0323",
+   "ID": 32.69,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 229,
+   "STANDARD": "BACK UP RING",
+   "No": "B0324",
+   "ID": 34.29,
+   "tolernce_id": 0.3,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 230,
+   "STANDARD": "BACK UP RING",
+   "No": "B0325",
+   "ID": 37.47,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 231,
+   "STANDARD": "BACK UP RING",
+   "No": "B0326",
+   "ID": 40.64,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 232,
+   "STANDARD": "BACK UP RING",
+   "No": "B0327",
+   "ID": 43.82,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 233,
+   "STANDARD": "BACK UP RING",
+   "No": "B0328",
+   "ID": 46.99,
+   "tolernce_id": 0.38,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 234,
+   "STANDARD": "BACK UP RING",
+   "No": "B0329",
+   "ID": 50.17,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 235,
+   "STANDARD": "BACK UP RING",
+   "No": "B0330",
+   "ID": 53.34,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 236,
+   "STANDARD": "BACK UP RING",
+   "No": "B0331",
+   "ID": 56.52,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 237,
+   "STANDARD": "BACK UP RING",
+   "No": "B0332",
+   "ID": 59.69,
+   "tolernce_id": 0.46,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 238,
+   "STANDARD": "BACK UP RING",
+   "No": "B0333",
+   "ID": 62.87,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 239,
+   "STANDARD": "BACK UP RING",
+   "No": "B0334",
+   "ID": 66.04,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 240,
+   "STANDARD": "BACK UP RING",
+   "No": "B0335",
+   "ID": 69.22,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 241,
+   "STANDARD": "BACK UP RING",
+   "No": "B0336",
+   "ID": 72.39,
+   "tolernce_id": 0.51,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 242,
+   "STANDARD": "BACK UP RING",
+   "No": "B0337",
+   "ID": 75.57,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 243,
+   "STANDARD": "BACK UP RING",
+   "No": "B0338",
+   "ID": 78.74,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 244,
+   "STANDARD": "BACK UP RING",
+   "No": "B0339",
+   "ID": 81.92,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 245,
+   "STANDARD": "BACK UP RING",
+   "No": "B0340",
+   "ID": 85.09,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 246,
+   "STANDARD": "BACK UP RING",
+   "No": "B0341",
+   "ID": 88.27,
+   "tolernce_id": 0.61,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 247,
+   "STANDARD": "BACK UP RING",
+   "No": "B0342",
+   "ID": 91.44,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 248,
+   "STANDARD": "BACK UP RING",
+   "No": "B0343",
+   "ID": 94.62,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 249,
+   "STANDARD": "BACK UP RING",
+   "No": "B0344",
+   "ID": 97.79,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 250,
+   "STANDARD": "BACK UP RING",
+   "No": "B0345",
+   "ID": 100.97,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 251,
+   "STANDARD": "BACK UP RING",
+   "No": "B0346",
+   "ID": 104.14,
+   "tolernce_id": 0.71,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 252,
+   "STANDARD": "BACK UP RING",
+   "No": "B0347",
+   "ID": 107.32,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 253,
+   "STANDARD": "BACK UP RING",
+   "No": "B0348",
+   "ID": 110.49,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 254,
+   "STANDARD": "BACK UP RING",
+   "No": "B0349",
+   "ID": 113.67,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 255,
+   "STANDARD": "BACK UP RING",
+   "No": "B0350",
+   "ID": 116.84,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 256,
+   "STANDARD": "BACK UP RING",
+   "No": "B0351",
+   "ID": 120.02,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 257,
+   "STANDARD": "BACK UP RING",
+   "No": "B0352",
+   "ID": 123.19,
+   "tolernce_id": 0.76,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 258,
+   "STANDARD": "BACK UP RING",
+   "No": "B0353",
+   "ID": 126.37,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 259,
+   "STANDARD": "BACK UP RING",
+   "No": "B0354",
+   "ID": 129.54,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 260,
+   "STANDARD": "BACK UP RING",
+   "No": "B0355",
+   "ID": 132.72,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 261,
+   "STANDARD": "BACK UP RING",
+   "No": "B0356",
+   "ID": 135.89,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 262,
+   "STANDARD": "BACK UP RING",
+   "No": "B0357",
+   "ID": 139.07,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 263,
+   "STANDARD": "BACK UP RING",
+   "No": "B0358",
+   "ID": 142.24,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 264,
+   "STANDARD": "BACK UP RING",
+   "No": "B0359",
+   "ID": 145.42,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 265,
+   "STANDARD": "BACK UP RING",
+   "No": "B0360",
+   "ID": 148.59,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 266,
+   "STANDARD": "BACK UP RING",
+   "No": "B0361",
+   "ID": 151.77,
+   "tolernce_id": 0.94,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 267,
+   "STANDARD": "BACK UP RING",
+   "No": "B0362",
+   "ID": 158.12,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 268,
+   "STANDARD": "BACK UP RING",
+   "No": "B0363",
+   "ID": 164.47,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 269,
+   "STANDARD": "BACK UP RING",
+   "No": "B0364",
+   "ID": 170.82,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 270,
+   "STANDARD": "BACK UP RING",
+   "No": "B0365",
+   "ID": 177.17,
+   "tolernce_id": 1.02,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 271,
+   "STANDARD": "BACK UP RING",
+   "No": "B0366",
+   "ID": 183.52,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 272,
+   "STANDARD": "BACK UP RING",
+   "No": "B0367",
+   "ID": 189.87,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 273,
+   "STANDARD": "BACK UP RING",
+   "No": "B0368",
+   "ID": 196.22,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 274,
+   "STANDARD": "BACK UP RING",
+   "No": "B0369",
+   "ID": 202.57,
+   "tolernce_id": 1.14,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 275,
+   "STANDARD": "BACK UP RING",
+   "No": "B0370",
+   "ID": 208.92,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 276,
+   "STANDARD": "BACK UP RING",
+   "No": "B0371",
+   "ID": 215.27,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 277,
+   "STANDARD": "BACK UP RING",
+   "No": "B0372",
+   "ID": 221.62,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 278,
+   "STANDARD": "BACK UP RING",
+   "No": "B0373",
+   "ID": 227.97,
+   "tolernce_id": 1.27,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 279,
+   "STANDARD": "BACK UP RING",
+   "No": "B0374",
+   "ID": 234.32,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 280,
+   "STANDARD": "BACK UP RING",
+   "No": "B0375",
+   "ID": 240.67,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 281,
+   "STANDARD": "BACK UP RING",
+   "No": "B0376",
+   "ID": 247.02,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 282,
+   "STANDARD": "BACK UP RING",
+   "No": "B0377",
+   "ID": 253.37,
+   "tolernce_id": 1.4,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 283,
+   "STANDARD": "BACK UP RING",
+   "No": "B0378",
+   "ID": 266.07,
+   "tolernce_id": 1.52,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 284,
+   "STANDARD": "BACK UP RING",
+   "No": "B0379",
+   "ID": 278.77,
+   "tolernce_id": 1.52,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 285,
+   "STANDARD": "BACK UP RING",
+   "No": "B0380",
+   "ID": 291.47,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 286,
+   "STANDARD": "BACK UP RING",
+   "No": "B0381",
+   "ID": 304.17,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 287,
+   "STANDARD": "BACK UP RING",
+   "No": "B0382",
+   "ID": 329.57,
+   "tolernce_id": 1.65,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 288,
+   "STANDARD": "BACK UP RING",
+   "No": "B0383",
+   "ID": 354.97,
+   "tolernce_id": 1.78,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 289,
+   "STANDARD": "BACK UP RING",
+   "No": "B0384",
+   "ID": 380.37,
+   "tolernce_id": 1.78,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 290,
+   "STANDARD": "BACK UP RING",
+   "No": "B0385",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 291,
+   "STANDARD": "BACK UP RING",
+   "No": "B0386",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 292,
+   "STANDARD": "BACK UP RING",
+   "No": "B0387",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 293,
+   "STANDARD": "BACK UP RING",
+   "No": "B0388",
+   "ID": 481.46,
+   "tolernce_id": 2.29,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 294,
+   "STANDARD": "BACK UP RING",
+   "No": "B0389",
+   "ID": 506.86,
+   "tolernce_id": 2.41,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 295,
+   "STANDARD": "BACK UP RING",
+   "No": "B0390",
+   "ID": 532.26,
+   "tolernce_id": 2.41,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 296,
+   "STANDARD": "BACK UP RING",
+   "No": "B0391",
+   "ID": 557.66,
+   "tolernce_id": 2.54,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 297,
+   "STANDARD": "BACK UP RING",
+   "No": "B0392",
+   "ID": 582.68,
+   "tolernce_id": 2.67,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 298,
+   "STANDARD": "BACK UP RING",
+   "No": "B0393",
+   "ID": 608.08,
+   "tolernce_id": 2.79,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 299,
+   "STANDARD": "BACK UP RING",
+   "No": "B0394",
+   "ID": 633.48,
+   "tolernce_id": 2.92,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 300,
+   "STANDARD": "BACK UP RING",
+   "No": "B0395",
+   "ID": 658.88,
+   "tolernce_id": 3.05,
+   "CS": 5.33,
+   "tolernce_cs": 0.13
+ },
+ {
+   "ListNo": 301,
+   "STANDARD": "BACK UP RING",
+   "No": "B0400",
+   "ID": 34.29,
+   "tolernce_id": 0.33,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 302,
+   "STANDARD": "BACK UP RING",
+   "No": "B0401",
+   "ID": 37.47,
+   "tolernce_id": 0.36,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 303,
+   "STANDARD": "BACK UP RING",
+   "No": "B0402",
+   "ID": 40.64,
+   "tolernce_id": 0.39,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 304,
+   "STANDARD": "BACK UP RING",
+   "No": "B0403",
+   "ID": 43.82,
+   "tolernce_id": 0.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 305,
+   "STANDARD": "BACK UP RING",
+   "No": "B0404",
+   "ID": 46.99,
+   "tolernce_id": 0.44,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 306,
+   "STANDARD": "BACK UP RING",
+   "No": "B0405",
+   "ID": 50.17,
+   "tolernce_id": 0.46,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 307,
+   "STANDARD": "BACK UP RING",
+   "No": "B0406",
+   "ID": 53.34,
+   "tolernce_id": 0.48,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 308,
+   "STANDARD": "BACK UP RING",
+   "No": "B0407",
+   "ID": 56.52,
+   "tolernce_id": 0.51,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 309,
+   "STANDARD": "BACK UP RING",
+   "No": "B0408",
+   "ID": 59.69,
+   "tolernce_id": 0.54,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 310,
+   "STANDARD": "BACK UP RING",
+   "No": "B0409",
+   "ID": 62.87,
+   "tolernce_id": 0.56,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 311,
+   "STANDARD": "BACK UP RING",
+   "No": "B0410",
+   "ID": 66.04,
+   "tolernce_id": 0.59,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 312,
+   "STANDARD": "BACK UP RING",
+   "No": "B0411",
+   "ID": 69.22,
+   "tolernce_id": 0.61,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 313,
+   "STANDARD": "BACK UP RING",
+   "No": "B0412",
+   "ID": 72.39,
+   "tolernce_id": 0.64,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 314,
+   "STANDARD": "BACK UP RING",
+   "No": "B0413",
+   "ID": 75.57,
+   "tolernce_id": 0.66,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 315,
+   "STANDARD": "BACK UP RING",
+   "No": "B0414",
+   "ID": 78.74,
+   "tolernce_id": 0.67,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 316,
+   "STANDARD": "BACK UP RING",
+   "No": "B0415",
+   "ID": 81.92,
+   "tolernce_id": 0.71,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 317,
+   "STANDARD": "BACK UP RING",
+   "No": "B0416",
+   "ID": 85.09,
+   "tolernce_id": 0.73,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 318,
+   "STANDARD": "BACK UP RING",
+   "No": "B0417",
+   "ID": 88.27,
+   "tolernce_id": 0.75,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 319,
+   "STANDARD": "BACK UP RING",
+   "No": "B0418",
+   "ID": 91.44,
+   "tolernce_id": 0.79,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 320,
+   "STANDARD": "BACK UP RING",
+   "No": "B0419",
+   "ID": 94.62,
+   "tolernce_id": 0.81,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 321,
+   "STANDARD": "BACK UP RING",
+   "No": "B0420",
+   "ID": 97.79,
+   "tolernce_id": 0.83,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 322,
+   "STANDARD": "BACK UP RING",
+   "No": "B0421",
+   "ID": 100.97,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 323,
+   "STANDARD": "BACK UP RING",
+   "No": "B0422",
+   "ID": 104.14,
+   "tolernce_id": 0.87,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 324,
+   "STANDARD": "BACK UP RING",
+   "No": "B0423",
+   "ID": 107.32,
+   "tolernce_id": 0.89,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 325,
+   "STANDARD": "BACK UP RING",
+   "No": "B0424",
+   "ID": 110.49,
+   "tolernce_id": 0.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 326,
+   "STANDARD": "BACK UP RING",
+   "No": "B0425",
+   "ID": 113.67,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 327,
+   "STANDARD": "BACK UP RING",
+   "No": "B0426",
+   "ID": 116.84,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 328,
+   "STANDARD": "BACK UP RING",
+   "No": "B0427",
+   "ID": 120.02,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 329,
+   "STANDARD": "BACK UP RING",
+   "No": "B0428",
+   "ID": 123.19,
+   "tolernce_id": 0.84,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 330,
+   "STANDARD": "BACK UP RING",
+   "No": "B0429",
+   "ID": 126.37,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 331,
+   "STANDARD": "BACK UP RING",
+   "No": "B0430",
+   "ID": 129.54,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 332,
+   "STANDARD": "BACK UP RING",
+   "No": "B0431",
+   "ID": 132.72,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 333,
+   "STANDARD": "BACK UP RING",
+   "No": "B0432",
+   "ID": 135.89,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 334,
+   "STANDARD": "BACK UP RING",
+   "No": "B0433",
+   "ID": 139.07,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 335,
+   "STANDARD": "BACK UP RING",
+   "No": "B0434",
+   "ID": 142.24,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 336,
+   "STANDARD": "BACK UP RING",
+   "No": "B0435",
+   "ID": 145.42,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 337,
+   "STANDARD": "BACK UP RING",
+   "No": "B0436",
+   "ID": 148.59,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 338,
+   "STANDARD": "BACK UP RING",
+   "No": "B0437",
+   "ID": 151.77,
+   "tolernce_id": 0.94,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 339,
+   "STANDARD": "BACK UP RING",
+   "No": "B0438",
+   "ID": 158.12,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 340,
+   "STANDARD": "BACK UP RING",
+   "No": "B0439",
+   "ID": 164.47,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 341,
+   "STANDARD": "BACK UP RING",
+   "No": "B0440",
+   "ID": 170.82,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 342,
+   "STANDARD": "BACK UP RING",
+   "No": "B0441",
+   "ID": 177.17,
+   "tolernce_id": 1.02,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 343,
+   "STANDARD": "BACK UP RING",
+   "No": "B0442",
+   "ID": 183.52,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 344,
+   "STANDARD": "BACK UP RING",
+   "No": "B0443",
+   "ID": 189.87,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 345,
+   "STANDARD": "BACK UP RING",
+   "No": "B0444",
+   "ID": 196.22,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 346,
+   "STANDARD": "BACK UP RING",
+   "No": "B0445",
+   "ID": 202.57,
+   "tolernce_id": 1.14,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 347,
+   "STANDARD": "BACK UP RING",
+   "No": "B0446",
+   "ID": 215.27,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 348,
+   "STANDARD": "BACK UP RING",
+   "No": "B0447",
+   "ID": 227.97,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 349,
+   "STANDARD": "BACK UP RING",
+   "No": "B0448",
+   "ID": 240.67,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 350,
+   "STANDARD": "BACK UP RING",
+   "No": "B0449",
+   "ID": 253.37,
+   "tolernce_id": 1.4,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 351,
+   "STANDARD": "BACK UP RING",
+   "No": "B0450",
+   "ID": 266.07,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 352,
+   "STANDARD": "BACK UP RING",
+   "No": "B0451",
+   "ID": 278.77,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 353,
+   "STANDARD": "BACK UP RING",
+   "No": "B0452",
+   "ID": 291.47,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 354,
+   "STANDARD": "BACK UP RING",
+   "No": "B0453",
+   "ID": 304.17,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 355,
+   "STANDARD": "BACK UP RING",
+   "No": "B0454",
+   "ID": 316.87,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 356,
+   "STANDARD": "BACK UP RING",
+   "No": "B0455",
+   "ID": 329.57,
+   "tolernce_id": 1.52,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 357,
+   "STANDARD": "BACK UP RING",
+   "No": "B0456",
+   "ID": 342.27,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 358,
+   "STANDARD": "BACK UP RING",
+   "No": "B0457",
+   "ID": 354.97,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 359,
+   "STANDARD": "BACK UP RING",
+   "No": "B0458",
+   "ID": 367.67,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 360,
+   "STANDARD": "BACK UP RING",
+   "No": "B0459",
+   "ID": 380.37,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 361,
+   "STANDARD": "BACK UP RING",
+   "No": "B0460",
+   "ID": 393.07,
+   "tolernce_id": 1.78,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 362,
+   "STANDARD": "BACK UP RING",
+   "No": "B0461",
+   "ID": 405.26,
+   "tolernce_id": 1.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 363,
+   "STANDARD": "BACK UP RING",
+   "No": "B0462",
+   "ID": 417.96,
+   "tolernce_id": 1.91,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 364,
+   "STANDARD": "BACK UP RING",
+   "No": "B0463",
+   "ID": 430.66,
+   "tolernce_id": 2.03,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 365,
+   "STANDARD": "BACK UP RING",
+   "No": "B0464",
+   "ID": 443.36,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 366,
+   "STANDARD": "BACK UP RING",
+   "No": "B0465",
+   "ID": 456.06,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 367,
+   "STANDARD": "BACK UP RING",
+   "No": "B0466",
+   "ID": 468.76,
+   "tolernce_id": 2.16,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 368,
+   "STANDARD": "BACK UP RING",
+   "No": "B0467",
+   "ID": 481.46,
+   "tolernce_id": 2.29,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 369,
+   "STANDARD": "BACK UP RING",
+   "No": "B0468",
+   "ID": 494.16,
+   "tolernce_id": 2.29,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 370,
+   "STANDARD": "BACK UP RING",
+   "No": "B0469",
+   "ID": 506.86,
+   "tolernce_id": 2.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 371,
+   "STANDARD": "BACK UP RING",
+   "No": "B0470",
+   "ID": 532.26,
+   "tolernce_id": 2.41,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 372,
+   "STANDARD": "BACK UP RING",
+   "No": "B0471",
+   "ID": 557.66,
+   "tolernce_id": 2.54,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 373,
+   "STANDARD": "BACK UP RING",
+   "No": "B0472",
+   "ID": 582.68,
+   "tolernce_id": 2.67,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 374,
+   "STANDARD": "BACK UP RING",
+   "No": "B0473",
+   "ID": 608.08,
+   "tolernce_id": 2.79,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 375,
+   "STANDARD": "BACK UP RING",
+   "No": "B0474",
+   "ID": 633.48,
+   "tolernce_id": 2.92,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ },
+ {
+   "ListNo": 376,
+   "STANDARD": "BACK UP RING",
+   "No": "B0475",
+   "ID": 658.88,
+   "tolernce_id": 3.05,
+   "CS": 6.99,
+   "tolernce_cs": 0.15
+ }
+]
